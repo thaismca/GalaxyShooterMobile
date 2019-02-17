@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60f104afb1347c144a9f357c219be8f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _laserPrefab: {fileID: 1375327289983004, guid: d5145f674416a3e47ae924eeb2dcc8e5,
+      type: 2}
+  - _tripleShotPrefab: {fileID: 1604518194085090, guid: 787fbbb64db1cd147bc433f06e57c06a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

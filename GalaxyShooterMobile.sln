@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyShooterMobile", "Assembly-CSharp.csproj", "{324B5794-260C-7531-025D-2D3E05668889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyShooterMobile", "Assembly-CSharp-firstpass.csproj", "{334D3246-5D93-7038-AEDE-E90CF6B45AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyShooterMobile", "Assembly-CSharp-Editor.csproj", "{52346A7B-7626-1958-6330-881F4BBD0865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324B5794-260C-7531-025D-2D3E05668889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324B5794-260C-7531-025D-2D3E05668889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324B5794-260C-7531-025D-2D3E05668889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324B5794-260C-7531-025D-2D3E05668889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334D3246-5D93-7038-AEDE-E90CF6B45AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334D3246-5D93-7038-AEDE-E90CF6B45AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334D3246-5D93-7038-AEDE-E90CF6B45AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334D3246-5D93-7038-AEDE-E90CF6B45AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52346A7B-7626-1958-6330-881F4BBD0865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52346A7B-7626-1958-6330-881F4BBD0865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52346A7B-7626-1958-6330-881F4BBD0865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52346A7B-7626-1958-6330-881F4BBD0865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

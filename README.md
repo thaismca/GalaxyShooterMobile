@@ -1,0 +1,2 @@
+# GalaxyShooterMobile
+2D Mobile Game developed with Unity, as part of “The Ultimate Guide to Game Development with Unity” course.  If you are a fan of games and like to simulate sky shooting, so Galaxy Shooter is game for you. Take down enemy ships to collect points,  and use the power ups to help you with more powerful lasers, increased speed or a shield. Galaxy Shooter is a top-down perspective, shoot space war game.  Implemented using C# language and Unity 2018.
